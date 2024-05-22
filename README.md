@@ -11,6 +11,7 @@
 
 # Clone the repository:
    git clone https://github.com/sazzadurrahmaan/Alphabet-Tiles.git
+  
    cd Alphabet-Tiles
    
 #  Install dependencies:
